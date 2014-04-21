@@ -1,19 +1,19 @@
-Controle de versão:
+Controle de versï¿½o:
 
  - Ambiente  desenvolvimento;
  - Ambiente de Testes;
- - Ambiente de Produção.
+ - Ambiente de Produï¿½ï¿½o.
 -------------------------------------
 
-Exemplos de controle de versão:
+Exemplos de controle de versï¿½o:
 
 Subversion, Mercurial, VS, Git, CVS.
 -------------------------------------
 
-Com o que posso usar o Controle de Versão?
+Com o que posso usar o Controle de Versï¿½o?
 
 * Controlar Trabalhos da faculdade;
-(grupo: colaboração)
+(grupo: colaboraï¿½ï¿½o)
 
 *Controlar Arquivos pessoais;
 
@@ -31,6 +31,6 @@ Git links:
  - github.com
 
 
-
+Feito em 21/04/2014 - Por Ricardo Santiago Morais.
 
 
