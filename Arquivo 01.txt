@@ -1,0 +1,36 @@
+Controle de versão:
+
+ - Ambiente  desenvolvimento;
+ - Ambiente de Testes;
+ - Ambiente de Produção.
+-------------------------------------
+
+Exemplos de controle de versão:
+
+Subversion, Mercurial, VS, Git, CVS.
+-------------------------------------
+
+Com o que posso usar o Controle de Versão?
+
+* Controlar Trabalhos da faculdade;
+(grupo: colaboração)
+
+*Controlar Arquivos pessoais;
+
+*Exemplos de exercicios feitos;
+
+*Inciar o seu portfolio na web.
+-------------------------------------
+
+Git links:
+
+ - download: http://git-scm.com/
+
+ - Guia de comando: try.github.io
+
+ - github.com
+
+
+
+
+
